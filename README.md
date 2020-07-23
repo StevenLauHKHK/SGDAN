@@ -22,5 +22,5 @@ Track 2
 * python test.py --valid_file (test mat file) --saving_img_root (output png file root) --saving_mat_dir (result mat zip saving root) --load_name (model name)
 
 # Pretrain model
-https://drive.google.com/drive/folders/1EAAycawumKEVaZVI2JoRX32tC1Er13Ar?usp=sharing
-https://portland-my.sharepoint.com/:f:/g/personal/kinwailau6-c_ad_cityu_edu_hk/EqXe_Rk9aFNKvwrBOOmToWkBv-JjCpbvWaDPZyiJ5TC24w?e=8FZcTl
+* https://drive.google.com/drive/folders/1EAAycawumKEVaZVI2JoRX32tC1Er13Ar?usp=sharing
+* https://portland-my.sharepoint.com/:f:/g/personal/kinwailau6-c_ad_cityu_edu_hk/EqXe_Rk9aFNKvwrBOOmToWkBv-JjCpbvWaDPZyiJ5TC24w?e=8FZcTl
